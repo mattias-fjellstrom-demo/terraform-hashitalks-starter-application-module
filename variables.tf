@@ -1,0 +1,3 @@
+variable "revision" {
+  type = string
+}
